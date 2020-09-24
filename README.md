@@ -1,2 +1,3 @@
-# Top 3 **Best** foods
-A website dedicated to the top 3 foods (in my opinion).
+# Top 5 **Best** foods
+
+A website dedicated strictly to the top 5 foods (in my opinion).
