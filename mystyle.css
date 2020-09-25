@@ -1,3 +1,12 @@
+header {
+    background-color: #344880;
+    color: white;
+    text-align: center;
+}
+nav {
+    text-align: center;
+    word-spacing: 2cm;
+}
 body {
     background-color: #B4C8FF;
 }
