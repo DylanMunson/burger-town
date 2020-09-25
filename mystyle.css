@@ -16,13 +16,11 @@ body {
 }
 
 div.a {
-    width: 150px;
-    text-align: inherit;
+    text-align: left;
 }
 div.b {
-    width: 150px; 
-    text-align: center;
+    text-align: right;
 }
 div.c {
-    width: 150px;
+    text-align: left
 }
