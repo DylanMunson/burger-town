@@ -4,7 +4,7 @@ header {
     text-align: center;
     padding-top: 40px;
     padding-bottom: 40px;
-    font-size: 300%;
+    font-size: 150%;
 }
 nav {
     background-color: #B4C8FF;
@@ -17,9 +17,11 @@ body {
 
 div.a {
     width: 150px;
+    text-align: inherit;
 }
 div.b {
     width: 150px; 
+    text-align: right;
 }
 div.c {
     width: 150px;
