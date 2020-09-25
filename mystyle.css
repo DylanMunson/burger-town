@@ -28,3 +28,7 @@ div.c {
     text-align: left;
     color: white;
 }
+.rice {
+    float: right;
+    margin-right: 10px;
+}
