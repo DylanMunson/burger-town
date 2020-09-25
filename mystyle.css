@@ -14,11 +14,20 @@ nav {
 body {
     background-color:  #344880;
 }
-
+.pizza {
+    border-radius: 80%;
+    border: 3px black; 
+}
 div.a {
     text-align: left;
     width: 270px;
     color: white;
+}
+.burrito {
+    float: right;
+    margin-right: 10px;
+    border-radius: 80%;
+    border: 3px black; 
 }
 div.b {
     text-align: right;
@@ -30,9 +39,7 @@ div.c {
     color: white;
     width: 270px;
 }
-.burrito {
-    float: right;
-    margin-right: 10px;
+.rice {
     border-radius: 80%;
-    border: 1px black; 
+    border: 3px black; 
 }
