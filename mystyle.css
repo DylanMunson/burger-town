@@ -5,8 +5,17 @@ header {
 }
 nav {
     text-align: center;
-    word-spacing: 2cm;
+    color: white;
 }
 body {
     background-color: #B4C8FF;
+}
+div.a {
+    width: 150px;
+}
+div.b {
+    width: 150px;
+}
+div.c {
+    width: 150px;
 }
