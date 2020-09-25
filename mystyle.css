@@ -18,10 +18,13 @@ body {
 div.a {
     text-align: left;
     width: 400px;
+    color: white;
 }
 div.b {
     text-align: right;
+    color: white;
 }
 div.c {
-    text-align: left
+    text-align: left;
+    color: white;
 }
