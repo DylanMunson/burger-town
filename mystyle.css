@@ -12,11 +12,12 @@ nav {
     color: white;
 }
 body {
-    background-color: #B4C8FF;
+    background-color:  #344880;
 }
 
 div.a {
     text-align: left;
+    width: 400px;
 }
 div.b {
     text-align: right;
