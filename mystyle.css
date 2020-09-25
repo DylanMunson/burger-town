@@ -4,6 +4,7 @@ header {
     text-align: center;
     padding-top: 40px;
     padding-bottom: 40px;
+    font-size: 300%;
 }
 nav {
     background-color: #B4C8FF;
@@ -18,7 +19,7 @@ div.a {
     width: 150px;
 }
 div.b {
-    width: 150px;
+    width: 150px; 
 }
 div.c {
     width: 150px;
