@@ -17,18 +17,22 @@ body {
 
 div.a {
     text-align: left;
-    width: 400px;
+    width: 270px;
     color: white;
 }
 div.b {
     text-align: right;
     color: white;
+    width: 270px;
 }
 div.c {
     text-align: left;
     color: white;
+    width: 270px;
 }
 .rice {
     float: right;
     margin-right: 10px;
+    border-radius: 80%;
+    border: 1px, black; 
 }
