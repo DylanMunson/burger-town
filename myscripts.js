@@ -18,7 +18,7 @@ var name = prompt('What is your name?');
 alert('Hey, ' + name + '. Welcome to my outstanding, wonderful, and beautiful website!' );
 
 var button = document.createElement("button");
-button.innerHTML = "Free Food";
+button.innerHTML = "Free Food (click here)";
 
 var body = document.getElementsByTagName("body")[0];
 body.appendChild(button);
