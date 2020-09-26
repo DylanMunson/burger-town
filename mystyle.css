@@ -36,6 +36,7 @@ div.b {
     color: white;
     width: 270px;
     float: right;
+    padding-right: 320px;
 }
 div.c {
     text-align: left;
@@ -46,5 +47,4 @@ div.c {
 .rice {
     border-radius: 80%;
     border: 3px black; 
-    padding-top: 300px;
 }
