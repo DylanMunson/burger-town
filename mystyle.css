@@ -35,7 +35,7 @@ div.b {
     text-align: right;
     color: white;
     width: 270px;
-    padding-left: 960px;
+    float: right;
 }
 div.c {
     text-align: left;
