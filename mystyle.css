@@ -20,7 +20,7 @@ body {
 }
 div.a {
     text-align: left;
-    margin-left: 300px;
+    padding-left: 300px;
     width: 270px;
     color: white;
 }
@@ -38,7 +38,7 @@ div.b {
 div.c {
     text-align: left;
     color: white;
-    margin-left: 300px;
+    padding-left: 300px;
     width: 270px;
 }
 .rice {
