@@ -32,7 +32,7 @@ div.a {
 div.b {
     text-align: right;
     color: white;
-    width: 270px;
+    width: -270px;
 }
 div.c {
     text-align: left;
