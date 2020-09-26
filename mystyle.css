@@ -1,5 +1,5 @@
 ody {
-    background-color:bisque;
+    background-color:rgb(196, 231, 255);
 }
 
 header, footer {
@@ -53,4 +53,21 @@ p {
 
 a {
     color: rgb(62, 59, 216);
+}
+body {
+    background-color:  #344880;
+}
+nav {
+    background-color: #B4C8FF;
+    text-align: center;
+    color: white;
+}
+div.a {
+    color: white;
+}
+div.b {
+    color: white;
+}
+div.c {
+    color: white;
 }
